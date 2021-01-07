@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning **Storage Systems**.
 - 💬 Welcome to communicate with me.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjs1224522500&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zjs1224522500&show_icons=true&theme=radical)](https://github.com/zjs1224522500/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zjs1224522500&show_icons=true&theme=radical)](https://github.com/zjs1224522500/zjs1224522500)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjs1224522500&layout=compact&langs_count=8)](https://github.com/zjs1224522500/zjs1224522500)
+
 
 <!--
 **zjs1224522500/zjs1224522500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
