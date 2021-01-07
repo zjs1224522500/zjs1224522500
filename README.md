@@ -4,7 +4,7 @@
 - 💬 Welcome to communicate with me.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zjs1224522500&show_icons=true&theme=radical)](https://github.com/zjs1224522500/zjs1224522500)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjs1224522500&layout=compact&langs_count=8)](https://github.com/zjs1224522500/zjs1224522500)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjs1224522500&layout=compact&langs_count=8&theme=radical)](https://github.com/zjs1224522500/zjs1224522500)
 
 
 <!--
