@@ -1,7 +1,8 @@
 ### Hi, I am Elvis Zhang 👋
-- 😄 I'm a Ph.D student and major in computer science.
-- 🌱 I’m currently learning **Storage Systems**.
+- 😄 I'm a Ph.D candidate and major in computer science.
+- 🌱 I’m currently learning and researching **Storage Systems**.
 - 💬 Welcome to communicate with me.
+- 📫 How to reach me: shunzi AT hust dot edu dot cn
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zjs1224522500&show_icons=true&theme=radical)](https://github.com/zjs1224522500/zjs1224522500)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zjs1224522500&layout=compact&langs_count=8&theme=radical)](https://github.com/zjs1224522500/zjs1224522500)
