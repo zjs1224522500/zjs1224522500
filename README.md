@@ -1,6 +1,6 @@
 ### Hi, I am Elvis Zhang 👋
-- 😄 I'm a Ph.D candidate and major in computer science.
-- 🌱 I’m currently learning and researching **Storage Systems**.
+- 😄 I'm a Ph.D student and major in computer science.
+- 🌱 I’m currently learning and researching **Storage Systems** (include key-value store, caching and distributed storage system).
 - 💬 Welcome to communicate with me.
 - 📫 How to reach me: shunzi AT hust dot edu dot cn
 
