@@ -4,6 +4,12 @@
 - 💬 Welcome to communicate with me.
 - 📫 How to reach me: shunzi AT hust dot edu dot cn
 
+### Timeline
+- 2019.09 - Now: Huazhong University of Science and Technology
+- 2015.09 - 2019.06: University of Electronic Science and Technology of China
+  - 2018.01 - 2019.06: SAP (Chengdu) - Developer Intern
+- 2012.09 - 2015.06: The middle School attached Sichuan Normal University
+
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zjs1224522500&show_icons=true&theme=radical)](https://github.com/zjs1224522500/zjs1224522500)
 -->
