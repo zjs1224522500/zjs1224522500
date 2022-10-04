@@ -10,6 +10,10 @@
   - 2018.01 - 2019.06: SAP Chengdu - Developer Intern
 - 2012.09 - 2015.06: The Middle School attached Sichuan Normal University
 
+### Blog
+- Blog with Notion: https://notion.shunzi.tech/
+- Hexo version (old): https://blog.shunzi.tech/
+
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zjs1224522500&show_icons=true&theme=radical)](https://github.com/zjs1224522500/zjs1224522500)
 -->
