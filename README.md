@@ -8,7 +8,7 @@
 - 2019.09 - Now: Huazhong University of Science and Technology (HUST)
 - 2015.09 - 2019.06: University of Electronic Science and Technology of China (UESTC)
   - 2018.01 - 2019.06: SAP Chengdu - Developer Intern
-- 2012.09 - 2015.06: The Middle School attached Sichuan Normal University
+- 2012.09 - 2015.06: The Middle School attached to Sichuan Normal University
 
 ### Blog
 - Blog with Notion: https://notion.shunzi.tech/
