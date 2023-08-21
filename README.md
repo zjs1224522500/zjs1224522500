@@ -6,8 +6,9 @@
 
 ### Timeline
 - 2019.09 - Now: Huazhong University of Science and Technology (HUST) <img src="pic/Huazhong_University_of_Science_&_Technology_logo.svg.png" width=24 height=18 />
+  - 2023.06 - Now: ByteDance Beijing - Storage Engine Intern <img src="pic/bytedance.png" width=60 height=15 />
 - 2015.09 - 2019.06: University of Electronic Science and Technology of China (UESTC) <img src="pic/UESTC_xiaohui.png" width=18 height=18 />
-  - 2018.01 - 2019.06: SAP Chengdu - Developer Intern <img src="pic/SAP_2011_logo.svg.png" width=31 height=15 />
+  - 2018.01 - 2019.06: SAP Chengdu - Java Developer Intern <img src="pic/SAP_2011_logo.svg.png" width=31 height=15 />
 - 2012.09 - 2015.06: The Middle School attached to Sichuan Normal University
 
 ### Blog
