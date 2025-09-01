@@ -13,7 +13,7 @@
 
 ### Blog
 - Blog with Notion: https://notion.shunzi.tech/
-- Hexo version (old): https://blog.shunzi.tech/
+- Hexo version (**deprecated**): https://blog.shunzi.tech/
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zjs1224522500&show_icons=true&theme=radical)](https://github.com/zjs1224522500/zjs1224522500)
